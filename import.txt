@@ -1,0 +1,1 @@
+mongoimport --db mongo-tests --collection courses --drop --file test-data.json --jsonArray
